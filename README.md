@@ -1,6 +1,6 @@
 # Twitter Financial Sentiment Analysis 📊🐦
 
-## 📌Project Overview
+## 📌Project Overview 
 This project analyzes financial tweets to understand overall market sentiment using Natural Language Processing (NLP). Tweets are preprocessed, sentiment is predicted using a trained model, and results are visualized to uncover trends that may reflect market mood.  
 
 The project follows an end-to-end data science workflow: data cleaning → sentiment prediction → visualization → interpretation.

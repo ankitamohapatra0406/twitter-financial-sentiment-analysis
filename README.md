@@ -12,7 +12,7 @@ The project follows an end-to-end data science workflow: data cleaning → senti
 - Matplotlib – Data visualization
 - Jupyter Notebook – Experimentation
 
-## 📊Sentiment Distribution Visualization 
+## 📊Sentiment Distribution Visualization
 The following bar chart shows the distribution of predicted sentiments across financial tweets:
 - Neutral tweets dominate the dataset
 - Positive sentiment appears moderately
